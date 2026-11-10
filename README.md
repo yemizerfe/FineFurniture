@@ -33,7 +33,6 @@ The platform is intentionally focused on **product discovery and business visibi
 - REST API
 - Production deployment
 
-> Update this section with the exact technologies used in the project if they are not already listed in the repository.
 
 ## Application Structure
 
