@@ -59,38 +59,6 @@ Furniture Business Website
     └── Business Data
 ```
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the required development tools installed for the technologies used by the project.
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yemizerfe/FineFurniture.git
-cd <project-directory>
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Environment Variables
-
-Create a local `.env` file containing the environment variables required by the application.
-
-Never commit `.env` files, passwords, API keys, database credentials, or other sensitive information to the repository.
-
-### Run the application
-
-```bash
-npm run dev
-```
-
-The application will start in development mode.
 
 ## Production
 
