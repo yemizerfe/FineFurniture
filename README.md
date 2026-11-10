@@ -68,7 +68,7 @@ Make sure you have the required development tools installed for the technologies
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yemizerfe/FineFurniture.git
 cd <project-directory>
 ```
 
